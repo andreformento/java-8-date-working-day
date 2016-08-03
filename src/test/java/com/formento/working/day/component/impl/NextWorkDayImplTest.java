@@ -1,4 +1,4 @@
-package com.formento.working.day;
+package com.formento.working.day.component.impl;
 
 import org.junit.Test;
 

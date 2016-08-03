@@ -1,4 +1,6 @@
-package com.formento.working.day;
+package com.formento.working.day.component.impl;
+
+import com.formento.working.day.component.NextWorkDay;
 
 import java.time.DayOfWeek;
 import java.time.temporal.ChronoField;

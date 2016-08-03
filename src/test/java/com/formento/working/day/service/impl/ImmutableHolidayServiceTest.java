@@ -1,5 +1,6 @@
-package com.formento.working.day.service;
+package com.formento.working.day.service.impl;
 
+import com.formento.working.day.service.HolidayService;
 import com.google.common.collect.ImmutableSet;
 import org.junit.Test;
 

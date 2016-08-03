@@ -1,5 +1,7 @@
-package com.formento.working.day;
+package com.formento.working.day.component.impl;
 
+import com.formento.working.day.component.NextBusinessDay;
+import com.formento.working.day.component.NextWorkDay;
 import com.formento.working.day.service.HolidayService;
 
 import java.time.temporal.Temporal;
